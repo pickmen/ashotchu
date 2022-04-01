@@ -11,9 +11,9 @@
 	<title></title>
 </head>
 <body class="pt-3 px-3">
-	<a class="btn btn-primary" href="/bomlistView.do">bom</a>
-	<a class="btn btn-primary" href="/IVlistView.do">재고</a>
-	<a class="btn btn-primary" href="/saleslistView.do">판매</a>
+	<a class="btn btn-primary" href="/bomlistView.do">bom11</a>
+	<a class="btn btn-primary" href="/IVlistView.do">재고22</a>
+	<a class="btn btn-primary" href="/saleslistView.do">판매33</a>
 	<hr>
 	<a class="btn btn-primary" href="/viewAC.do">거래처</a>
 	<a class="btn btn-primary" href="/listWare.do" >창고</a>
